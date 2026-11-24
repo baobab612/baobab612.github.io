@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://baobab612.github.io/sunbaek-cleaning/sitemap.xml
